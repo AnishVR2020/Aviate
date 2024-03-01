@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 16864b0a-a65b-4fb2-b136-6e453099ae6c)
+
+  (paper "A4")
+
+  (title_block
+    (title "Project Aviate Control Board")
+    (date "2023-10-13")
+    (rev "v1")
+    (company "Project Aviate")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
